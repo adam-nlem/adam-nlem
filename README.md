@@ -1,11 +1,9 @@
 # 💫 About Me:
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    22 | Software developper (mobile + web) <br><br>
-    Here to do great things and help people
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+
+> 22 | Software developper (mobile + web) <br><br>
+> _Here to do great things and help people
+  [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />](#)
+
 
 
 
