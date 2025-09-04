@@ -9,7 +9,8 @@
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />](#)
 
-[<img align="left" width="500" src="./profile-3d-contrib/profile-green.svg" />]()
+### 🗓️ - Contribution calendar
+[<img align="left" width="350" src="./profile-3d-contrib/profile-green.svg" />]()
 
 ---
 
