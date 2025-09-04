@@ -1,6 +1,19 @@
 # 💫 About Me:
-22 | Software developper (mobile + web) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br><br>Here to do great things and help people
+<table>
+<tr>
+<td>
 
+22 | Software developper (mobile + web) <br><br>
+Here to do great things and help people
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</td>
+</tr>
+</table>
 ![](https://github-readme-stats.vercel.app/api?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adam-nlem&theme=tokyonight&hide_border=false)<br/>
 
