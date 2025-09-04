@@ -1,6 +1,6 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=adam-nlem&show_icons=true&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/adam-nlem?template=classic&isocalendar=1&introduction=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&introduction=false&introduction.title=true&tweets=false&tweets.user=adam_nlem&tweets.attachments=true&tweets.limit=3&config.timezone=Europe%2FParis)
+![Metrics](https://metrics.lecoq.io/adam-nlem?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis)
 
 <!--
 **adam-nlem/adam-nlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
