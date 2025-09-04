@@ -12,7 +12,7 @@
 
 #### 🗓️ - Contribution calendar
 
-[<img width="350" src="./profile-3d-contrib/profile-green.svg" />]()
+[<img width="350" src="./profile-3d-contrib/profile-night-green.svg" />]()
 
 
 ---
