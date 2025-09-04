@@ -9,7 +9,7 @@
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />](#)
 
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+[<img width="300" src="./profile-3d-contrib/profile-south-season-animate.svg" />]()
 
 # 🛠️ Tools I use:
 <p align="left">
