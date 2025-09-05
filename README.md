@@ -3,6 +3,6 @@
 
 <img align="left" src="/assets/metrics.svg" alt="Metrics">
 
-<img align="right" src="https://nirzak-streak-stats.vercel.app/?user=adam-nlem&theme=tokyonight&hide_border=false"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=adam-nlem&theme=tokyonight&hide_border=false"/>
 
 <img src="/assets/wakatime.svg" alt="Metrics">
