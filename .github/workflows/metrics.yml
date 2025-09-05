@@ -16,8 +16,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: assets/base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
           filename: assets/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           config_timezone: Europe/Paris
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -26,6 +31,7 @@ jobs:
         with:
           filename: assets/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           config_timezone: Europe/Paris
           plugin_habits: yes
           plugin_habits_facts: no
@@ -35,12 +41,14 @@ jobs:
         with:
           filename: assets/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/wakatime.svg
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
