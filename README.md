@@ -1,26 +1,10 @@
-# 💫 About Me:
-
 ##### 22 | Software developper (mobile + web) 
 > _Here to do great things and help people_
 
 <img align="left" src="/assets/metrics.svg" alt="Metrics">
 
+<img align="right" src="https://nirzak-streak-stats.vercel.app/?user=adam-nlem&theme=tokyonight&hide_border=false"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+
 <img align="right" src="/assets/wakatime.svg" alt="Metrics">
-
-[<img src="https://nirzak-streak-stats.vercel.app/?user=adam-nlem&theme=tokyonight&hide_border=false"/>](#)
-
-[<img src="https://github-readme-stats.vercel.app/api?username=adam-nlem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>](#)
-
-
-
-
-#### 🗓️ - Contribution calendar
-
-
-
----
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adam_nlem) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Adam_NLEM) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
