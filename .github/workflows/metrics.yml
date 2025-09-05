@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: assets/metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Paris
           plugin_languages: yes
@@ -28,7 +29,7 @@ jobs:
           plugin_isocalendar_duration: full-year
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
+          filename: assets/wakatime.svg
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
