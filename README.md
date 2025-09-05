@@ -1,9 +1,9 @@
 ##### 22 | Software developper (mobile + web) 
 > _Here to do great things and help people_
 
-<img align="left" src="/assets/base.svg" alt="Metrics">
+<img align="left" width="50%" src="/assets/base.svg" alt="Metrics">
 
-<img align="right" src="/assets/languages.svg" alt="Metrics">
+<img align="right" width="50%" src="/assets/languages.svg" alt="Metrics">
 
 <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=adam-nlem&theme=tokyonight&hide_border=false"/>
 
