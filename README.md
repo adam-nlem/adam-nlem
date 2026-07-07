@@ -1,4 +1,4 @@
-##### 22 | Software developer (mobile + web) 
+##### 23 | Software developer (mobile + web) 
 > _Here to do great things and help people_
 
 <img align="left" src="/assets/left-metrics.svg" alt="base" width="47%" />
